@@ -1,23 +1,25 @@
 # み;
 
 
-[![Visits Badge](https://badges.pufler.dev/visits/miquolone/miquolone)]()
-![codility](https://img.shields.io/badge/codility-codility-yellow)
-
-
 Hey there 👋
 
+I creating social Commers, GameMatchingLounge, SomeOtherToooools　in this Account,
+my accout has only our projects
+
+I’m MiQuolone, a senior full-stack engineer, creative coder and self-proclaimed designer who specializes in front-end development. I make it my mission to translate user-focused designs into pixel-perfect websites or applications that run blazing fast.
+
 someone called to MiQuolone for me; 
+
 
 | My GitHub Status |  My useing Languages |
 | --- | --- |
 |[![MiQuolone's GitHub stats](https://github-readme-stats.vercel.app/api?username=miquolone&hide=true&show_icons=ture&include_all_commits=true)](https://github.com/anuraghazra/github-readme-stats)|[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=miquolone)](https://github.com/anuraghazra/github-readme-stats)|
 
-I creating social Commers, GameMatchingLounge, SomeOtherToooools　in this Account,
-my accout include for only our projects
 
-I’m MiQuolone, a senior full-stack engineer, creative coder and self-proclaimed designer who specializes in front-end development. I make it my mission to translate user-focused designs into pixel-perfect websites or applications that run blazing fast.
 
+
+[![Visits Badge](https://badges.pufler.dev/visits/miquolone/miquolone)]()
+![codility](https://img.shields.io/badge/codility-codility-yellow)
 
 
 ## 💼 Skills
