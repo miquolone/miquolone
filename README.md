@@ -3,12 +3,12 @@
 
 Hey there 👋
 
-I creating social Commers, GameMatchingLounge, SomeOtherToooools　in this Account,
-my accout has only our projects
+I’m MiQuolone colled み；
+I creating social Commers, GameMatchingLounge, SomeOtherToooools in this Account,
+my accout has only our projects, not using for work
 
-I’m MiQuolone, a senior full-stack engineer, creative coder and self-proclaimed designer who specializes in front-end development. I make it my mission to translate user-focused designs into pixel-perfect websites or applications that run blazing fast.
+probably full-stack engineer, creative coder and self-proclaimed designer who specializes in front-end development. I make it my mission to translate user-focused designs into pixel-perfect websites or applications that run blazing fast. maybe
 
-someone called to MiQuolone for me; 
 
 
 | My GitHub Status |  My useing Languages |
