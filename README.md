@@ -6,10 +6,8 @@ Hey there 👋
 I’m MiQuolone colled み；
 I creating social Commers, GameMatchingLounge, SomeOtherToooools in this Account,
 my accout has only our projects, not using for work
-
-probably full-stack engineer, creative coder and self-proclaimed designer who specializes in front-end development. I make it my mission to translate user-focused designs into pixel-perfect websites or applications that run blazing fast. maybe
-
-
+:wavy_dash:
+ I prefer to stay close to my users.
 
 | My GitHub Status |  My useing Languages |
 | --- | --- |
@@ -22,7 +20,7 @@ probably full-stack engineer, creative coder and self-proclaimed designer who sp
 ![codility](https://img.shields.io/badge/codility-codility-yellow)
 
 
-## 💼 Skills
+## 💼 Favorites
 
 ![](https://img.shields.io/badge/Code-React-informational?style=for-the-badge&logo=react&logoColor=white&color=4AB197)
 ![](https://img.shields.io/badge/Code-Gatsby-informational?style=for-the-badge&logo=gatsby&logoColor=white&color=4AB197)
@@ -30,22 +28,11 @@ probably full-stack engineer, creative coder and self-proclaimed designer who sp
 ![](https://img.shields.io/badge/Code-TypeScript-informational?style=for-the-badge&logo=TypeScript&logoColor=white&color=4AB197)
 ![](https://img.shields.io/badge/Code-MongoDB-informational?style=for-the-badge&logo=MongoDB&logoColor=white&color=4AB197)
 ![](https://img.shields.io/badge/Code-MySQL-informational?style=for-the-badge&logo=MySQL&logoColor=white&color=4AB197)
-
-<details>
-<summary>More Skills</summary>
-<br>
-
 ![](https://img.shields.io/badge/Style-CSS-informational?style=for-the-badge&logo=css3&logoColor=white&color=4AB197)
 ![](https://img.shields.io/badge/Style-Sass-informational?style=for-the-badge&logo=Sass&logoColor=white&color=4AB197)
-
-<br>
-
 ![](https://img.shields.io/badge/Test-Mocha-informational?style=for-the-badge&logo=Mocha&logoColor=white&color=4AB197)
 ![](https://img.shields.io/badge/Test-Cypress-informational?style=for-the-badge&logo=Cypress&logoColor=white&color=4AB197)
 ![](https://img.shields.io/badge/Test-Cypress-informational?style=for-the-badge&logo=Cypress&logoColor=white&color=4AB197)
-
-<br>
-
 ![](https://img.shields.io/badge/Tools-Docker-informational?style=for-the-badge&logo=docker&logoColor=white&color=4AB197)
 ![](https://img.shields.io/badge/Tools-Pivotal-informational?style=for-the-badge&logo=Pivotal-Tracker&logoColor=white&color=4AB197)
 ![](https://img.shields.io/badge/Tools-NGINX-informational?style=for-the-badge&logo=nginx&logoColor=white&color=4AB197)
@@ -60,4 +47,8 @@ probably full-stack engineer, creative coder and self-proclaimed designer who sp
 ![](https://img.shields.io/badge/Tools-Jira-informational?style=for-the-badge&logo=Jira-Software&logoColor=white&color=4AB197)
 ![](https://img.shields.io/badge/Tools-Clubhouse-informational?style=for-the-badge&logo=Clubhouse&logoColor=white&color=4AB197)
 
+
+<details>
+<summary>More</summary>
+Solidity
 </details>
